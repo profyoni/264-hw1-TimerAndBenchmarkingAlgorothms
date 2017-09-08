@@ -1,6 +1,6 @@
 # 264-hw1-TimerAndBenchmarkingAlgorothms
 
-Create a `Timer` class and use it to benchmark 3 Java algorithms
+Create a `Timer` class and use it to benchmark 2 Java algorithms
 ===================
 #### <i class="icon-file"></i> **Implement using Best Practices**
     public class Timer
